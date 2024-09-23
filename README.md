@@ -1,0 +1,7 @@
+- Folder containing my Python Projects
+- Ranging from small to medium size
+- Organising skills
+- Python knowledge showcase
+- Source codes
+- Different versions/updates
+- .exe files
